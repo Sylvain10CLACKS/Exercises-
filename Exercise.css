@@ -1,0 +1,567 @@
+#Naviga{
+  background-color: white;
+  height: 50px;
+  height: 80px; 
+}
+
+#vesta{
+  height: 80px;
+  width: 210px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+#pallete{
+  font-size: 20px;
+  color: rgb(4, 4, 73);
+  margin-left: 500px;
+}
+
+#colors{
+  display: flex;
+  gap: 90px;
+  margin-left: 200px;
+  margin-top: 70px;
+}
+
+#c1{
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #3ac67b;
+}
+
+#c2{
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #264730;
+}
+
+#c3{
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #0a1027;
+}
+
+#c4{
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #777784;
+}
+
+#codes{
+  display: flex;
+  gap: 150px;
+  margin-left: 200px;
+}
+
+#font{
+  text-align: center;
+  font-size: medium;
+  margin-top: 70px;
+}
+
+#hend{
+  display: flex;
+  gap: 120px;
+  margin-left: 200px;
+  margin-top: 70px;
+
+}
+
+#Ab{
+  display: flex;
+  gap: 120px;
+  margin-left: 200px;
+ 
+}
+
+#a1{
+  
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: ;
+  font-size: 30px;
+  box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.3);
+}
+
+#a2{
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.3);
+}
+
+#a3{
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  border: 1px;
+  box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  font-size: 30px;
+}
+
+#a4{
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  border: 1px; 
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.3);
+}
+
+#box{
+  background-color: rgb(2, 2, 27);
+}
+
+#tbd{
+  font-size: 100px;
+  color: grey;
+  text-align: center;
+}
+
+#gumi{
+  display: flex;
+  font-size: 8px;
+  gap: 40px;
+  margin-left: 20px;
+}
+
+#humi{
+  margin-left: 20px;
+  font-size: 8px;
+  gap: 40px;
+  display: flex;
+}
+
+#aha{
+  display: grid;
+  margin-top: 20px;
+  margin-left: -5px;
+}
+
+#pc{
+ margin-left: -7px; 
+}
+
+
+#ABOUTUS{
+  
+
+
+}
+
+#kalo{
+  background-color: white;
+}
+
+#hungu{
+  color: white;
+  text-align: center;
+  font-size: xx-large;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #fff;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.logo h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.about-us {
+  text-align: center;
+  padding: 40px;
+  background-color: #f9f9f9;
+}
+
+.about-us h2 {
+  color: #6ab04c;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.about-us h3 {
+  font-size: 28px;
+  margin-top: 10px;
+  color: #333;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.image-container img {
+  width: 400px;
+  height: auto;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.who-we-are {
+  padding: 40px;
+  background-color: #fff;
+  text-align: left;
+}
+
+.who-we-are h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+.who-we-are .content {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.who-we-are .content p {
+  width: 48%;
+  color: #555;
+  line-height: 1.6;
+}
+
+#III{
+  display: flex;
+  color: #3ac67b;
+  margin-left: 600px;
+}
+
+#kiii{
+  color: #555;
+  font-size: 10px;
+}
+
+#sample{
+  width: 660px;
+  height: 90px;
+  margin-left: 200px;
+}
+
+#push{
+  height: 520px;
+  width: 400px;
+}
+
+#wed{
+  margin-left: 530px;
+  margin-top: -400px;
+}
+
+#id{
+  font-size: xx-large;
+}
+
+#lili{
+  height: 50px;
+  width: 50px;
+  margin-top: 20px;
+}
+
+#ikiki{
+  font-size: 40px;
+  margin-left: 55px;
+  margin-top: -55px;
+}
+
+#kucaro{
+  margin-left: 55px;
+}
+
+
+#nunu{
+  height: 50px;
+  width: 50px;
+  margin-top: 20px;
+}
+
+#yahuzo{
+  height: 30px;
+  width: 30px;
+  margin-top: -30px;
+  margin-left: -40px;
+}
+
+#ibihaha{
+  display: flex;
+  color: #3ac67b;
+  margin-top: 130px;
+  font-size: xx-large;
+  gap: 150px;
+  margin-left: 250px;
+}
+
+#umunyu{
+  display: flex;
+  margin-top: px;
+  font-size: 19px;
+  gap: 140px;
+  margin-left: 230px;
+}
+
+#ikiyiko{
+  display: flex;
+  font-size: 8px;
+  gap: 100px;
+  margin-left: 230px;
+  
+}
+
+#juju{
+  font-size: 40px;
+  margin-left: 230px;
+  margin-top: 20px;
+}
+
+#kivu{
+  font-size: 40px;
+  margin-left: 230px;
+  margin-top: 20px;
+  color: grey;
+}
+
+#gusha{
+  display: flex;
+  gap: 50px;
+  margin-left: 230px;
+  margin-top: 30px;
+}
+
+#kuri{
+ color: black;
+}
+
+
+#and{
+ color: #777784;
+}
+
+#nyarwanda{
+  margin-left: 230px;
+  margin-top: 20px;
+}
+
+#lalala{
+  margin-left: 800px;
+  margin-top: -140px;
+}
+
+#awa{
+  text-align: center;
+}
+
+#hana{
+  border-radius: 30px;
+}
+
+#kuba{
+  border-radius: 30px;
+}
+
+#fuka{
+  display: flex;
+  gap: 50px;
+  margin-left: 300px;
+ 
+}
+
+#trap{
+  display: flex;
+  gap: 90px;
+  margin-left: 300px;
+ 
+}
+
+#post{
+  color: white;
+  margin-left: 550px;
+  background-color: #3ac67b;
+  margin-top: 30px;
+  height: 50px;
+  border-radius: 16px;
+}
+
+#frezo{
+  box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.3);
+  height: 300px;
+  width: 1000px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+#alk{
+  font-size: xx-large;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+#ipsum{
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+
+#email{
+  height: 60px;
+  width: 300px;
+ margin-top: 20px;
+ border-radius: 30px;
+ margin-left: 30px;
+}
+
+#kumbu{
+  height: 60px;
+  width: auto;
+  margin-top: 40px;
+ border-radius: 20px;
+ margin-left: 30px;
+ background-color: #3ac67b;
+}
+
+footer{
+  background-color: black;
+  margin-top: 20px;
+
+
+}
+
+#akanse{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+#les{
+  color: white;
+  font-size: 20px;;
+}
+
+
+#urugendo{
+  margin-left: 500px;
+  display: flex;
+}
+
+#pya{
+  display: flex;
+  margin-left: 450px;
+  gap: 50px;
+  margin-top: 30px;
+}
+
+#ikibondo{
+  border-radius: 10px;
+  height: 50px;
+  width: 270px;
+  text-align: center;
+}
+
+#cribe{
+  border-radius: 10px;
+  background-color: #3ac67b;
+  height: 50px;
+  width: 70px;
+}
+
+#kadoyi{
+ margin-left: -425px;
+}
+
+#number{
+  display: flex;
+  margin-left: 200px;
+  margin-top: 20px;
+}
+
+
+#k1{
+    height: 80px;
+    width: 80px;
+    background-color: #3ac67b;
+    
+}
+
+#k2{
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  margin-top: 17.5px;
+  margin-left: -65px;
+}
+
+
+#ks{
+ color: rgb(215, 208, 208);
+ margin-left: 20px;
+ font-size: 45px;
+ margin-top: -10px;
+}
+
+#salama{
+  display: flex;
+  margin-left: 650px;
+  color: white;
+  margin-top: -40px;
+  font-size: large;
+  gap: 30px;
+}
+
+#dove{
+  height: 50px;
+  background-color: #333;
+  margin-top: 20px;
+}
+
+#bifate{
+  height: 30px;
+  width: 30px;
+}
+
+#vyose{
+  display: flex;
+  margin-left: 20px;
+  gap: 770px;
+}
+
+
+
+
